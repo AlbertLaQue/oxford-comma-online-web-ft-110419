@@ -1,3 +1,3 @@
 def oxford_comma(array)
-array.join(",") << (5,"and")
+array.join(",") << ("and")
 end
